@@ -25,7 +25,7 @@ function Login() {
           </div>
 
           <button class="transform rounded-sm bg-indigo-600 py-2 font-bold duration-300 hover:bg-indigo-400">
-            LOG IN 
+           <Link to="/dashboard" >LOG IN </Link> 
           </button>
 
           <Link to="/"
